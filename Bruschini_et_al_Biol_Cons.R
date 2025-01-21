@@ -4,7 +4,7 @@
 #                                                                        #
 #  Estimating wild bee population size with validated distance sampling  #
 #                                                                        #
-#  Script Written by Leonardo Dapporto                                   #
+#                                                                        #
 #                                                                        #
 ##########################################################################
 
